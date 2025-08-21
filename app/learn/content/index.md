@@ -35,7 +35,7 @@ In blockchain and Ethereum, SNARKs can be used to verify state or computations o
 
 Here is a [list of zkVMs](https://github.com/rkdud007/awesome-zkvm?tab=readme-ov-file) that have been designed through various approaches.
 
-### more resources
+### More resources
 
 - [a zero-knowledge paradigm series](https://www.lita.foundation/blog/zero-knowledge-paradigm-zkvm)
 - [cairo – a turing-complete stark-friendly cpu architecture - shahar papini](https://www.youtube.com/watch?v=vVgHL5vpJxY&t=33s)
@@ -58,7 +58,7 @@ Here is a [list of zkVMs](https://github.com/rkdud007/awesome-zkvm?tab=readme-ov
 - [Getting the bugs out of SNARKs: The road ahead](https://a16zcrypto.com/posts/article/getting-bugs-out-of-snarks/)
 - [~tacryt-socryp on Zorp, the Nock zkVM | Reassembly23](https://www.youtube.com/watch?v=zD45V6GAD00)
 
-### tutorials
+### Tutorials
 
 - [brainfuck tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [chip0](https://github.com/shuklaayush/chip0)
